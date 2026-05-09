@@ -24,7 +24,7 @@ Track daily moods, triggers, and view mood history. Includes helpful mental heal
 ## Screenshots
 
 **Home Page:**  
-![Home Page](Screenshot 2026-03-16 003121.png)
+<img width="1891" height="897" alt="Screenshot 2026-03-16 003121" src="https://github.com/user-attachments/assets/2909b0ac-6585-46b6-b711-70fb6535b282" />
 
 **Mood Tracker:**  
-![Mood Tracker](Screenshot 2026-03-16 003133.png)
+<img width="1877" height="1015" alt="Screenshot 2026-03-16 003133" src="https://github.com/user-attachments/assets/85897da1-5d79-4af5-b4b8-949f4b4b521a" />
